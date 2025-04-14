@@ -1,1 +1,1 @@
-# operacoes-day-trader
+estudo de day trader
