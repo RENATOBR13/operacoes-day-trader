@@ -1,0 +1,1 @@
+# operacoes-day-trader
